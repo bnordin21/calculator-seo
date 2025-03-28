@@ -1,3 +1,4 @@
 # calculator-seo
 
-https://www.nord-tools.net/calculator/finance/rv-loan-calculator
+Check out the [RV Loan Calculator](https://yourdomain.com/rv-loan-calculator)
+
